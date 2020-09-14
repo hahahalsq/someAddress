@@ -1,3 +1,11 @@
 
 后端django + 前端vue 项目构建
 https://blog.csdn.net/Jack_wise/article/details/80690826?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
+
+
+获取py安装包
+https://pypi.org/
+
+
+mysql的安装和配置
+https://www.cnblogs.com/winton-nfs/p/11524007.html
